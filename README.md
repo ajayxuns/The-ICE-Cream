@@ -36,5 +36,5 @@ To run the project locally:
 
  **Clone the repository**
    ```bash
-   git clone (https://github.com/ajayxuns/The-ICE-Cream)
+   git clone https://github.com/ajayxuns/The-ICE-Cream
    
